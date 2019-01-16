@@ -1,0 +1,7 @@
+?token=NTM1MDU0NzQ4NDI5MzIwMTky.DyCkFw.6emHDdDoao8fliwXc9TNQS5sJ2U
+owner=524901565472047116
+prefix=!
+game=!help <3
+stayinchannel=true
+songinstatus=true 
+token=NTM1MDU0NzQ4NDI5MzIwMTky.DyCkFw.6emHDdDoao8fliwXc9TNQS5sJ2U
